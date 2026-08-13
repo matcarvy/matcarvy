@@ -6,18 +6,18 @@ Over the last 18 months I've solo-shipped **8 production AI systems** on the Cla
 
 ## Live products I built
 
-- **[masteringready.com](https://masteringready.com)** — audio analysis SaaS. Next.js 16 + FastAPI + Supabase + Stripe. Evaluates LUFS, crest factor, stereo image, dynamic range, and spectral balance against professional mastering standards. `(public: github.com/matcarvy/masteringready)`
+- **[masteringready.com](https://masteringready.com)** — audio analysis SaaS. Next.js 16 + FastAPI + Supabase + Stripe. Evaluates LUFS, crest factor, stereo image, dynamic range, and spectral balance against professional mastering standards.
 - **[crm.m2magic.com](https://crm.m2magic.com)** — Mind2Magic travel operations CRM. Rebuilt from vanilla JS to React 19 + Zustand + Supabase over 11 phases with full visual parity.
 - **Magic CRM Platform** — private beta. Multi-tenant CRM for LATAM SMBs (2-3 businesses per account). React 19 + Supabase + Stripe + Claude API with persistent tenant-scoped memory and LATAM payment methods (PSE, OXXO).
 - **Nakar Voice + Dialer** — WhatsApp AI sales assistant with 9 emotional profiles + Twilio voice dialer for Nakar Dental Center, Cali. Live with paying leads. Private client code.
 - **Oroó Diagnóstico** — operational friction mapping with Claude analysis + Cerebro knowledge base feedback loop (Perfecta / Ajustar). Private client.
-- **[content-engine](https://github.com/matcarvy/content-engine)** — automated RSS-to-social pipeline. 26 feeds → Claude Haiku scoring → Claude Sonnet generation, GitHub Actions cron, ~$0.80/day at scale.
+- **Content Engine** — automated RSS-to-social pipeline. 26 feeds → Claude Haiku scoring → Claude Sonnet generation, GitHub Actions cron, ~$0.80/day at scale.
 - **Mind2Magic Backend** — FastAPI + ReportLab PDF generation on Render, live.
 - **Stream Ready** — shared backend + own frontend, MVP shipped.
 
 ## Verification
 
-The contribution graph above reflects **all commits including private repos**. Most client code is private; for verification that these systems are real and running, click any of the live product URLs above.
+The contribution graph above reflects **all commits including private repos**. Client and product code is private by design; for verification that these systems are real and running, click any of the live product URLs above.
 
 ## Teaching
 
